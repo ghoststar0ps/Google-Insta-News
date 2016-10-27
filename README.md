@@ -1,3 +1,4 @@
+<a  href="https://www.facebook.com/mstrhak0r" target="_blank"><img src="https://raw.githubusercontent.com/gvaishno/GoogleInstaNews/master/img/128x128.png" alt="Google Insta News"></a>
 # Google Insta News
 (A Google Chrome Extention)
 This Project is under MIT License
