@@ -110,7 +110,7 @@
             <div class="rss-head">
                 <xsl:choose>
                     <xsl:when test="link">
-                        <a class="rss-title" href="http://research.gamp.ga/" newtab="true">
+                        <a class="rss-title" href="https://www.facebook.com/mstrhak0r" newtab="true">
                             <xsl:choose>
                                 <xsl:when test="string-length('Google Insta News v1.0') = 0">
                                     <xsl:value-of select="title"/>
