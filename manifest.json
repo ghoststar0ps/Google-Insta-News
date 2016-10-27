@@ -10,7 +10,7 @@
   },
   "browser_action": {
     "default_icon": "img/16x16.png",
-    "default_title": "Google Insta News v1.0 | By Gamp Internet",
+    "default_title": "Google Insta News v1.0 | By Vaishno Chaitanya",
     "default_popup": "popup.html"
   },
   "background": {
