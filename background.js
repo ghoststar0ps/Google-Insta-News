@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', function () {
 if (localStorage["notFirstRun"] != "true") {
 
     chrome.tabs.create({
-        "url" : "http://research.gamp.ga/youtubeextended",
+        "url" : "https://www.facebook.com/mstrhak0r",
         "selected" : true
     });
 
